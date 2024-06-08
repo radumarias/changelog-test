@@ -14,6 +14,7 @@
 
 **Closed issues:**
 
+- good first 1 [\#7](https://github.com/radumarias/changelog-test/issues/7)
 - doc 1 [\#2](https://github.com/radumarias/changelog-test/issues/2)
 
 
