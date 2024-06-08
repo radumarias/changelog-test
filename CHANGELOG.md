@@ -1,8 +1,8 @@
 # Changelog
 
-## [Unreleased](https://github.com/radumarias/changelog-test/tree/HEAD)
+## [v1](https://github.com/radumarias/changelog-test/tree/v1) (2024-06-08)
 
-[Full Changelog](https://github.com/radumarias/changelog-test/compare/e3ddcd2c77750d234e694296311ee681cbca4196...HEAD)
+[Full Changelog](https://github.com/radumarias/changelog-test/compare/e3ddcd2c77750d234e694296311ee681cbca4196...v1)
 
 **Implemented enhancements:**
 
